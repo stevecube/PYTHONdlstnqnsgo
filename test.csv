@@ -1,0 +1,26 @@
+a² + 2ab + b², (a + b)²
+a² - 2ab + b², (a - b)²
+(a + b)² - 2ab, a² + b²
+(a - b)² + 2ab, a² + b²
+(a + 1/a)² - 2, a² + 1/a²
+(a - 1/a)² + 2, a² + 1/a²
+a² - b², (a + b)(a - b)
+x² + (a + b)x + ab, (x + a)(x + b)
+x² - (a + b)x + ab, (x - a)(x - b)
+acx² + (ad + bc)x + bd, (ax + b)(cx + d)
+acx² - (ad + bc)x + bd, (ax - b)(cx - d)
+(a + b)(a² - ab + b²), a³ + b³
+(x + 1)(x² - x + 1), x³ + 1
+(a - b)(a² + ab + b²), a³ - b³
+(x - 1)(x² + x + 1), x³ - 1
+x³ + (a + b + c)x² + (ab + bc + ca)x + abc, (x + a)(x + b)(x + c)
+x³ - (a + b + c)x² + (ab + bc + ca)x - abc, (x - a)(x - b)(x - c)(a + b + c)²
+a² + b² + c² + 2(ab + bc + ca), (a + b + c)²
+a³ + 3a²b + 3ab² + b³, (a + b)³
+(a + b)³ - 3ab(a + b), a³ + b³
+(x + 1/x)³ - 3(x + 1/x), x³ + 1/x³
+a³ - 3a²b + 3ab² + b³, (a - b)³
+(a - b)³ + 3ab(a + b), a³ - b³
+1/2(a + b + c){(a - b)²(b - c)²(c - a)²}, a³ + b³ + c³ - 3abc
+1/2{(a - b)²(b - c)²(c - a)²}, a²+ b³ + c³ - ab - bc - ca
+a⁴ + a²b² + b⁴, (a² + ab + b²)(a² - ab + b²)
